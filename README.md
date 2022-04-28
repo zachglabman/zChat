@@ -1,7 +1,4 @@
-
-# CSE330
-
-# Module 6 - ZOL
+ZOL
 
 ##  How to use "zChat"
 **1.** Clone my [repo](https://github.com/zachglabman/zChat/).
