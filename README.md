@@ -1,4 +1,4 @@
-ZOL
+# ZOL
 
 ##  How to use "zChat"
 **1.** Clone my [repo](https://github.com/zachglabman/zChat/).
