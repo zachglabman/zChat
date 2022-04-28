@@ -1,0 +1,104 @@
+*{
+/* background-size:cover; */
+margin: 0;
+padding: 0;
+width: auto;
+height: auto;
+overflow: scroll;
+}
+
+img {
+    max-width: 15px;
+    max-height: 10px;
+}
+
+.main{
+    background-color: #d1e5f8;
+}
+
+#title {
+    font-size: 4vw;
+}
+
+p{
+    color:black;
+    font-size: 2vw;
+}
+
+.site_title {
+    width: auto;
+    margin: auto;
+    text-align: center;
+    /* display: flex; */
+}
+
+#current_user {
+    float: left;
+}
+
+/* zach's preferred navbar setup */
+.navbar {
+    background: #a5bfd7;
+    height: auto;
+    /* justify-content: space-evenly; */
+    display: flex;
+}
+
+.navbar ul {
+    float:right;
+    overflow: hidden;
+    list-style-type: none;
+}
+
+.navbar ul li {
+    text-decoration: none;
+    color: black;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+    transition: 0.6s ease;
+
+}
+
+/* hover actions on li */
+.navbar ul li:hover {
+    background-color: #73a5d4;
+    color: black;
+    cursor:pointer;
+}
+
+#messaging{
+    width: 69%;
+    float:left;
+}
+#log-wrapper{
+    border: 1px solid black;
+}
+#customization-wrapper{
+    min-width: 100%;
+}
+#gui{
+    width: 30%;
+    float:right;
+}
+
+#all-rooms{
+    width: 50%;
+    float:left;
+    border-right: 1px black;
+    padding-bottom: 2px;
+}
+#all-users{
+    width: 50%;
+    float:right;
+    border-left: 1px black;
+    padding-bottom: 2px;
+}
+#joining-a-room{
+    min-width: 100%;
+}
+#creating-a-room{
+    min-width: 100%;
+}
+#banning-and-kicking{
+    min-width: 100%;
+}
