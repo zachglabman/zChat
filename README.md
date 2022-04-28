@@ -1,22 +1,13 @@
 
 # CSE330
 
-Zach Glabman 466464 zachglabman
-
-Justin Novellas 486351 jj4619
-
-  
 # Module 6 - ZOL
 
-- Passed the validator
-- node_modules is in my .gitignore file
-
 ##  How to use "zChat"
-**1.** Clone my [repo](https://github.com/cse330-spring-2022/module6-group-m6-466464-486351).
+**1.** Clone my [repo](https://github.com/zachglabman/zChat/).
 **2.** You may need to install dependency packages mime, socket and path (as specified in my package.json file)
 **3.** cd into the folder, open a terminal and run "node chat-server.js".
 **4.** Since my chat-server serves up a static folder, you will need to navigate to [localhost:3456/client.html](localhost:3456/client.html) in order to get started.
-  
 
 ## Walking through the functionality
 
